@@ -8,15 +8,15 @@ The underground cabling system is a common practice followed in many urban areas
 
 # SOFTWARE REQUIREMENT
 
--Arduino IDE
+Arduino IDE
 
 # HARDWARE REQUIREMENT 
 
 Arduino UNO<br />
--Jumpers - Male to Male, Male to Female, Female to Female<br />
--Switch<br />
--LCD 16x2<br />
--Potentiometer<br />
+Jumpers - Male to Male, Male to Female, Female to Female<br />
+Switch<br />
+LCD 16x2<br />
+Potentiometer<br />
 
 # BLOCK DIAGRAM
 
