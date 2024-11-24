@@ -48,15 +48,6 @@ Before setting up the Underground Cable Fault Detection system, ensure you have 
 - **Push Button**: Used to reset or acknowledge the fault detection.
 - **Jumper Wires**: For making connections between the components.
 
-
-# BLOCK DIAGRAM
-
-![image](https://github.com/user-attachments/assets/2ed53253-89ea-4fb2-ad47-1c161dcc64fa)
-
-# IMPLEMENTATION PROTOTYPE IMAGES
-
-![image](https://github.com/user-attachments/assets/b39d7d73-db8f-4cb7-ac16-d3798272a64b)
-
 # Folder Structure
 
 ```plaintext
@@ -82,6 +73,14 @@ Underground_cable_fault_detection/
 
 4. **Alert System:**
     The buzzer provides an audible alert to notify users about the detected fault. This helps to quickly identify and address issues in underground cable systems.
+
+# BLOCK DIAGRAM
+
+![image](https://github.com/user-attachments/assets/2ed53253-89ea-4fb2-ad47-1c161dcc64fa)
+
+# IMPLEMENTATION IMAGES
+
+![image](https://github.com/user-attachments/assets/b39d7d73-db8f-4cb7-ac16-d3798272a64b)
 
 # Contributing
 We welcome contributions! If you'd like to improve the system or add new features, feel free to fork the repository, make changes, and submit a pull request. Please ensure your contributions follow the project's coding conventions and are well-documented.
